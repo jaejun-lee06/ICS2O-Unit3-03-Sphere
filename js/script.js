@@ -4,7 +4,7 @@
 
 'use strict'
 /**
- * This function calculates volume of a Pyramid.
+ * This function calculates volume of a sphere.
  */
 function calculate () {
   // input
